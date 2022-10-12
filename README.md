@@ -1,2 +1,2 @@
-# Full-Screen-Mario-Unblocked
-e
+# Full-Screen-Mario
+Unblocked mario.
